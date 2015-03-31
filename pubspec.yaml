@@ -1,0 +1,8 @@
+name: analyzer-hanging
+version: 0.0.1
+author: Anton Astashov
+description: Analyzer failure on compilation unit resolving
+dependencies:
+  analyzer: 0.25.0-dev.2
+  stagexl: 0.9.2+1
+  path: any
